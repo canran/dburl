@@ -1,3 +1,3 @@
-module github.com/xo/dburl
+module github.com/canran/dburl
 
 go 1.20
